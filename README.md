@@ -6,7 +6,7 @@ A modern, responsive SaaS landing page built with Next.js 14, TypeScript, and Ta
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://admybrand-landing.vercel.app) *(Replace with your actual deployment URL)*
+[View Live Demo](https://admybrand-ruddy.vercel.app/) 
 
 ## ✨ Features
 
@@ -60,8 +60,8 @@ A modern, responsive SaaS landing page built with Next.js 14, TypeScript, and Ta
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/yourusername/admybrand-landing.git
-   cd admybrand-landing
+   git clone https://github.com/VikasSoni10/adMyBrand.git
+   cd adMyBrand
    \`\`\`
 
 2. **Install dependencies**
